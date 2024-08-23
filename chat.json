@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the background color to red green",
+        "message_id": "guest23082024065419",
+        "timestamp": "23082024065421",
+        "component_file_name": "simple_cta_component_1724387378",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
