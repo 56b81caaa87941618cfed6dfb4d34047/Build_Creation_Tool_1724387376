@@ -2,7 +2,7 @@
 */
 Vue.component("simple_cta_component_1724387378", {
     template: `
-    <section id="cta-component" style="min-height: 390px"  class="bg-gray-50 dark:bg-gray-800 flex-1">
+    <section id="cta-component" style="min-height: 390px"  class="bg-gradient-to-r from-red-500 to-green-500 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
